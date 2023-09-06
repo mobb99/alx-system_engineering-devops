@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($bestschool#$(($(($stir#$STIR))+$(($water#$WATER))))))
